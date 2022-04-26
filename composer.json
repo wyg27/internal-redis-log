@@ -1,0 +1,14 @@
+{
+  "name": "wyg27/internal-redis-log",
+  "description": "An internal class for saving log in the Redis.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "yiguowang",
+      "email": "wangyiguo@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
