@@ -1,4 +1,5 @@
 <?php
+namespace SteerWalRedisLog;
 
 class SteerWalRedisLog
 {
