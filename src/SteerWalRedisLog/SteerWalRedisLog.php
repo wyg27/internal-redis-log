@@ -1,6 +1,9 @@
 <?php
 namespace SteerWalRedisLog;
 
+/**
+ * 测试
+ */
 class SteerWalRedisLog
 {
     protected string $channel_id;
